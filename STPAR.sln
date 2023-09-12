@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STPAR", "STPAR.csproj", "{FCFB37A3-FE3F-4A23-B2EF-4F6A4B09DABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFB37A3-FE3F-4A23-B2EF-4F6A4B09DABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFB37A3-FE3F-4A23-B2EF-4F6A4B09DABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFB37A3-FE3F-4A23-B2EF-4F6A4B09DABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFB37A3-FE3F-4A23-B2EF-4F6A4B09DABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95393524-F6A5-40FC-9DAD-04ED3BE01FD7}
+	EndGlobalSection
+EndGlobal
